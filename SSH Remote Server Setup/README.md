@@ -1,6 +1,8 @@
 # SSH Remote Server Setup
 Setting up a basic remote Linux server and configure it also including, fail2ban to prevent brute force attacks.
 
+Also following this challenge https://github.com/livialima/linuxupskillchallenge
+
 # Steps
 
 ### 1. Create a Remote Server
