@@ -11,7 +11,7 @@ Complete documentation of OS migration with security hardening implementation.
 - Performance Metrics
 
 ## Quick Links
-- [Full Documentation]([./Windows10-to-11-Migration.md](https://github.com/uriel0byte/Window11-Migration/blob/690c7972bc538896f3dd61208dbc9a20f1249813/Windows10-to-11-Migration.md))
+- [Full Documentation](https://github.com/uriel0byte/Window11-Migration/blob/690c7972bc538896f3dd61208dbc9a20f1249813/Windows10-to-11-Migration.md)
 
 ## Learning Path
 CompTIA Security+ (Self-Directed)
